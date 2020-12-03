@@ -1,0 +1,12 @@
+.greet {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: 'Sansita Swashed', cursive;
+    font-size: 60px;
+    border-bottom: solid;
+    padding-top: 20px;
+}
+
+.greet_msg {
+    background-image: url('banner.jpg');
+}
